@@ -87,7 +87,7 @@ export default function Navbar() {
                     ))}
                     <div className="pt-4 mt-4 border-t border-slate-800">
                         <Link
-                            href="http://localhost:3000"
+                            href="https://minerApp.korimaqui.com"
                             onClick={() => setIsOpen(false)}
                             className="flex items-center justify-center w-full px-4 py-3 rounded-md text-sm font-black text-amber-500 hover:text-amber-400 uppercase bg-amber-950/30 border border-amber-500/30 hover:bg-amber-950/50 hover:border-amber-400/50 transition-all gap-2"
                         >
