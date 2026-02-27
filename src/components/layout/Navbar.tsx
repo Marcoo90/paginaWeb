@@ -51,7 +51,7 @@ export default function Navbar() {
                         {/* Desktop Login Button */}
                         <div className="hidden lg:block">
                             <Link
-                                href="http://localhost:3000"
+                                href="https://minerApp.korimaqui.com"
                                 className="text-xs font-black bg-amber-500 text-slate-900 px-5 py-2.5 rounded-sm hover:bg-amber-400 transition-all uppercase tracking-wide flex items-center gap-2 shadow-lg shadow-amber-500/20 hover:shadow-amber-500/40 transform hover:-translate-y-0.5"
                             >
                                 <HardHat className="h-3.5 w-3.5" />
