@@ -53,7 +53,7 @@ export default function OperacionesPage() {
                                     </div>
                                     <div className="bg-white p-6 rounded-sm shadow-sm border-t-2 border-slate-200 hover:-translate-y-1 transition-transform">
                                         <h4 className="font-bold text-slate-900 mb-2 uppercase">Minerales</h4>
-                                        <p className="text-slate-600">Polimetálico (Cobre).</p>
+                                        <p className="text-slate-600">METAL - ORO.</p>
                                     </div>
                                 </div>
                             </div>
