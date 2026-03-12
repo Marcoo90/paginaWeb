@@ -26,10 +26,10 @@ export default function Navbar() {
                     <Link href="/" className="flex items-center gap-3 shrink-0 group z-50">
                         <div className="bg-amber-100 p-1 rounded-sm group-hover:bg-amber-500 transition-colors shadow-lg">
                             {/* <HardHat className="h-6 w-6 text-slate-900" />*/}
-                            <Image src="/images/logotipoPro.png" alt="Logo Kori Maqui" width={50} height={50} className="object-contain" />
+                            <Image src="/images/korymaquilogo.png" alt="Logo Kori Maqui" width={50} height={50} className="object-contain" />
                         </div>
                         <span className="font-bold text-lg tracking-wider uppercase bg-clip-text text-transparent bg-gradient-to-r from-white to-slate-400 group-hover:to-white transition-all">
-                            Kori Maqui
+                            Kory Maqui
                         </span>
                     </Link>
 
