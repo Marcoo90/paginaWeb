@@ -32,8 +32,8 @@ export default function Home() {
 
               <SlideUp delay={0.3} duration={0.8}>
                 <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6 leading-tight drop-shadow-lg">
-                  KORY MAQUI <br className="hidden md:block" />
-                  <span className="text-amber-500">GROUP MOLLO</span>
+                  KORY MAQUI {/*<br className="hidden md:block" />*/}
+                  <span className="text-amber-500"><br />GROUP MOLLO</span>
                 </h1>
               </SlideUp>
 
