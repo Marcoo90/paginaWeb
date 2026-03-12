@@ -7,12 +7,12 @@ import HeroMarquee from "@/components/ui/HeroMarquee";
 import { FadeIn, SlideUp, StaggerContainer, StaggerItem } from "@/components/animations/MotionWrapper";
 const JOBS = [{
     id: 1,
-    position: "",
-    area: "",
+    position: "ayudante topografo",
+    area: "Mina",
     requirements: [
-        "",
-        "",
-        ""
+        "tecnico en topografia y/o afines.",
+        "Experiencia mínima de 1 año.",
+        "Disponibilidad para régimen atípico."
     ]
 }];
 /*
