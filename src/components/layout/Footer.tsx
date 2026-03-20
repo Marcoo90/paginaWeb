@@ -57,11 +57,11 @@ export default function Footer() {
                             </li>
                             <li className="flex items-center">
                                 <Phone className="h-5 w-5 mr-2 text-amber-600 shrink-0" />
-                                <span>+51 962 274 204</span>
+                                <span>+51 943 652 847</span>
                             </li>
                             <li className="flex items-center">
                                 <Mail className="h-5 w-5 mr-2 text-amber-600 shrink-0" />
-                                <span>contacto@korimaqui.com</span>
+                                <span>rrhh@korimaqui.com</span>
                             </li>
                         </ul>
                     </div>
