@@ -71,7 +71,7 @@ export default function ContactoPage() {
                                             </div>
                                             <div>
                                                 <h3 className="font-bold text-slate-900 mb-1">Correo Electrónico</h3>
-                                                <p className="text-slate-600">contacto@korimaqui.com</p>
+                                                <p className="text-slate-600">rrhh@korimaqui.com</p>
                                             </div>
                                         </div>
                                     </StaggerItem>

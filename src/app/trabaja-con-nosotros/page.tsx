@@ -5,16 +5,28 @@ import { Button } from "@/components/ui/Button";
 import { Briefcase, AlertTriangle, Mail } from "lucide-react";
 import HeroMarquee from "@/components/ui/HeroMarquee";
 import { FadeIn, SlideUp, StaggerContainer, StaggerItem } from "@/components/animations/MotionWrapper";
-const JOBS = [{
-    id: 1,
-    position: "ayudante topografo",
-    area: "Mina",
-    requirements: [
-        "tecnico en topografia y/o afines.",
-        "Experiencia mínima de 1 año.",
-        "Disponibilidad para régimen atípico."
-    ]
-}];
+const JOBS = [
+    {
+        id: 1,
+        position: "ayudante topografo",
+        area: "Mina",
+        requirements: [
+            "tecnico en topografia y/o afines.",
+            "Experiencia mínima de 1 año.",
+            "Disponibilidad para régimen atípico."
+        ]
+    },
+    {
+        id: 2,
+        position: "mecánico electricista",
+        area: "Mina",
+        requirements: [
+            "tecnico mecánico electricista.",
+            "Experiencia mínima de 2 año.",
+            "Disponibilidad para trabajar en mina."
+        ]
+    }
+];
 /*
 const JOBS = [
     {
@@ -113,9 +125,9 @@ export default function TrabajaPage() {
                                             ))}
                                         </ul>
                                     </div>
-                                    <Button className="w-full text-sm" disabled>
+                                    {/*<Button className="w-full text-sm" disabled>
                                         Ver Detalle (Próximamente)
-                                    </Button>
+                                    </Button>*/}
                                 </div>
                             </StaggerItem>
                         ))}
